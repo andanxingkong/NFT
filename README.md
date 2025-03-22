@@ -45,11 +45,7 @@ Git: 版本控制的瑞士军刀，确保代码的稳定与协作。
 
 输入 yarn install 以自动下载项目依赖。
 
-﻿
-
-![img](file:///C:/Users/XUQING~1/AppData/Local/Temp/ksohtml15724/wps1.jpg)
-
-﻿ ![img](https://2024.jsjds.com.cn/Backend/Work/work/download-article-picture?name=20240481501714658311A1jIi_nFGh8MYXYVFj5JbLHiRv_Exp.png)﻿﻿
+﻿﻿﻿
 
 
 
@@ -75,14 +71,7 @@ Git: 版本控制的瑞士军刀，确保代码的稳定与协作。
 打开新的命令行窗口。
 
 输入 yarn start 启动整个项目。
-
-成功的标志
-
-﻿
-
-![img](file:///C:/Users/XUQING~1/AppData/Local/Temp/ksohtml15724/wps4.jpg)
-
-﻿ ![img](https://2024.jsjds.com.cn/Backend/Work/work/download-article-picture?name=20240481501714658346bT6CTxsuhO5A93LWfA5R0IyJFXaxHV.png)﻿﻿
+﻿﻿
 
 
 
